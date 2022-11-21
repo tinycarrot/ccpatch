@@ -285,7 +285,7 @@ def patch(path: str):
 appList = {
     "ps": {
         "paths": [
-            "/Applications/Adobe Photoshop 2023/Adobe Photoshop 2020.app/Contents/MacOS/Adobe Photoshop 2023",
+            "/Applications/Adobe Photoshop 2023/Adobe Photoshop 2023.app/Contents/MacOS/Adobe Photoshop 2023",
             "/Applications/Adobe Photoshop 2021/Adobe Photoshop 2021.app/Contents/MacOS/Adobe Photoshop 2021",
             "/Applications/Adobe Photoshop 2022/Adobe Photoshop 2022.app/Contents/MacOS/Adobe Photoshop 2022",
         ]
