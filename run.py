@@ -297,7 +297,7 @@ appList = {
     },
     "ai": {
         "paths": [
-            "/Applications/Adobe Illustrator 2023/Adobe Illustrator.app/Contents/MacOS/Adobe Illustrator",
+            "/Applications/Adobe Illustrator 2023/Adobe Illustrator 2023.app/Contents/MacOS/Adobe Illustrator",
             "/Applications/Adobe Illustrator 2021/Adobe Illustrator.app/Contents/MacOS/Adobe Illustrator",
             "/Applications/Adobe Illustrator 2022/Adobe Illustrator.app/Contents/MacOS/Adobe Illustrator",
         ]
