@@ -20,7 +20,7 @@
 
 * macOS
 
-      sudo python3 -c "$(curl -fsSL https://raw.githubusercontent.com/YJBeetle/ccpatch/generic/run.py)"
+      sudo python3 -c "$(curl -fsSL https://raw.githubusercontent.com/tinycarrot/ccpatch/generic/run.py)"
 
 * Windows
 
@@ -30,7 +30,7 @@
 
 * macOS
 
-      sudo python3 -c "$(curl -fsSL https://raw.githubusercontent.com/YJBeetle/ccpatch/generic/run.py)" restore
+      sudo python3 -c "$(curl -fsSL https://raw.githubusercontent.com/tinycarrot/ccpatch/generic/run.py)" restore
 
 * Windows
 
