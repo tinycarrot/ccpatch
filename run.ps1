@@ -271,7 +271,7 @@ function patch($path) {
 $appList = @{
     ps = @{
         paths = @(
-            'C:\Program Files\Adobe\Adobe Photoshop 2020\Photoshop.exe',
+            'C:\Program Files\Adobe\Adobe Photoshop 2023\Photoshop.exe',
             'C:\Program Files\Adobe\Adobe Photoshop 2021\Photoshop.exe',
             'C:\Program Files\Adobe\Adobe Photoshop 2022\Photoshop.exe'
         )
@@ -283,7 +283,7 @@ $appList = @{
     }
     ai = @{
         paths = @(
-            'C:\Program Files\Adobe\Adobe Illustrator 2020\Support Files\Contents\Windows\Illustrator.exe',
+            'C:\Program Files\Adobe\Adobe Illustrator 2023\Support Files\Contents\Windows\Illustrator.exe',
             'C:\Program Files\Adobe\Adobe Illustrator 2021\Support Files\Contents\Windows\Illustrator.exe',
             'C:\Program Files\Adobe\Adobe Illustrator 2022\Support Files\Contents\Windows\Illustrator.exe'
         )
@@ -311,7 +311,7 @@ $appList = @{
     }
     pr = @{
         paths = @(
-            'C:\Program Files\Adobe\Adobe Premiere Pro 2020\Registration.dll',
+            'C:\Program Files\Adobe\Adobe Premiere Pro 2023\Registration.dll',
             'C:\Program Files\Adobe\Adobe Premiere Pro 2021\Registration.dll',
             'C:\Program Files\Adobe\Adobe Premiere Pro 2022\Registration.dll'
         )
@@ -332,14 +332,14 @@ $appList = @{
     }
     ae = @{
         paths = @(
-            'C:\Program Files\Adobe\Adobe After Effects 2020\Support Files\AfterFXLib.dll',
+            'C:\Program Files\Adobe\Adobe After Effects 2023\Support Files\AfterFXLib.dll',
             'C:\Program Files\Adobe\Adobe After Effects 2021\Support Files\AfterFXLib.dll',
             'C:\Program Files\Adobe\Adobe After Effects 2022\Support Files\AfterFXLib.dll'
         )
     }
     me = @{
         paths = @(
-            'C:\Program Files\Adobe\Adobe Media Encoder 2020\Adobe Media Encoder.exe',
+            'C:\Program Files\Adobe\Adobe Media Encoder 2023\Adobe Media Encoder.exe',
             'C:\Program Files\Adobe\Adobe Media Encoder 2021\Adobe Media Encoder.exe',
             'C:\Program Files\Adobe\Adobe Media Encoder 2022\Adobe Media Encoder.exe'
         )
